@@ -209,6 +209,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us what needs to be done.",
     contactLead:  "Describe what is happening and we will advise on the work and cost.",
-    contactPlaceholder: "e.g. breaker tripping, need extra sockets, geyser not heating"
+    contactPlaceholder: "e.g. breaker tripping, need extra sockets, geyser not heating",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Power problems <em>right now?</em>",
+    ctaBannerSub:   "One call and a qualified electrician is on the way."
   }
 };
